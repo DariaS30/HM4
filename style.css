@@ -1,0 +1,39 @@
+body{
+    font-size: 2em;
+}
+
+h1{
+    color: green;
+}
+
+#element{
+    color: blue;
+}
+
+.yellow{
+    color: red;
+}
+
+.red, .black{
+    color:brown;
+}
+
+div p{
+    color:darkgray;
+}
+
+h6::first-line{
+    color: chocolate;
+}
+
+ul > li{
+    color: cornflowerblue;
+}
+
+li:last-child{
+    color: hotpink;
+}
+
+a:hover{
+    color: burlywood;
+}
